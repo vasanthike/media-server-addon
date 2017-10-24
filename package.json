@@ -1,0 +1,10 @@
+{
+  "name": "iris-skybell-node",
+  "version": "1.0.0",
+  "description": "Node.js addon for skybell",
+  "main": "addon.js",
+  "gypfile": true,
+  "dependencies": {
+    "nan": "^2.0.0"
+  }
+}
